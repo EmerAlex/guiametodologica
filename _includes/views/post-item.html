@@ -1,0 +1,8 @@
+{%- if include.item -%}
+  {%- assign item = include.item -%}
+{%- endif -%}
+
+{%- assign post = item -%}
+
+{% assign date_format = site.yat.date_format | default: "%b %-d, %Y" %}
+
