@@ -15,7 +15,7 @@ sidebar: []
 ---
 ## Limitantes y restricciones
 
-Definir limitantes y restricciones en un proyecto de software es un proceso crítico que impacta en la planificación, diseño y ejecución del proyecto. A continuación, se presentan las definiciones y enfoques para identificar y documentar estas limitantes y restricciones, junto con referencias académicas pertinentes.
+Definir limitantes y restricciones en un proyecto de software es un proceso crítico que impacta en la planificación, diseño y ejecución del proyecto. A continuación, se presentan las definiciones y enfoques para identificar y documentar estas limitantes y restricciones.
 
 - **Limitantes:** Se refieren a las condiciones o factores que pueden restringir el alcance del proyecto. Estas pueden incluir recursos limitados, como tiempo, presupuesto y personal, así como limitaciones tecnológicas que pueden afectar la implementación del software.
 - **Restricciones:** Son condiciones específicas que deben cumplirse durante el desarrollo del proyecto. Estas pueden incluir requisitos legales, normativos o de calidad que el software debe satisfacer. Las restricciones son más rígidas que las limitantes y a menudo se derivan de políticas organizacionales o estándares de la industria.
