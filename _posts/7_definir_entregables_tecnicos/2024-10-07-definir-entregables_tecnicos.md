@@ -20,7 +20,7 @@ Una vez identificado los procesos con sus respectivos patrones, se empieza con l
 
 ## Documentación base.
 
-la documentación técnica base de un proyecto de software enfocado en los reembolsos o reclamos es esencial para garantizar la comprensión, mantenimiento y escalabilidad del sistema. A continuación, se presentan los componentes clave de esta documentación, junto con una breve descripción de cada uno:
+la documentación técnica base de un proyecto de software enfocado en los reembolsos o reclamos es esencial para garantizar la comprensión, mantenimiento y escalabilidad del sistema. A continuación, se presentan los componentes clave de esta documentación.
 
 - **Requisitos del Software:** Este documento detalla las necesidades y expectativas del cliente y los usuarios finales. Incluye requisitos funcionales (qué debe hacer el sistema) y no funcionales (rendimiento, seguridad, etc.). Es fundamental para guiar el desarrollo y asegurar que el producto final cumpla con las expectativas.
 
@@ -28,12 +28,12 @@ la documentación técnica base de un proyecto de software enfocado en los reemb
 
 - **Plan de Pruebas técnicas:** Este documento detalla la estrategia de pruebas que se utilizará para verificar que el software cumple con los requisitos especificados. Incluye tipos de pruebas (unitarias, de integración, de sistema) y criterios de aceptación.
 
-- **Manual de Usuario:** Proporciona instrucciones sobre cómo utilizar el software. Incluye guías paso a paso, ejemplos y soluciones a problemas comunes. Es crucial para facilitar la adopción del software por parte de los usuarios finales (Nielsen, 1993).
+- **Manual de Usuario:** Proporcionar instrucciones sobre cómo utilizar el software. Incluir guías paso a paso, ejemplos y soluciones a problemas comunes. Es crucial para facilitar la adopción del software por parte de los usuarios finales .
 Guía de Instalación: Proporciona instrucciones sobre cómo instalar y configurar el software en diferentes entornos. Es esencial para asegurar que los usuarios puedan implementar el sistema sin problemas.
 
 ## Documentación patrones.
 
-Para la documentación de patrones como insumaose tomara el resultado final de  [ver más...](/2024/10/05/definir_patrones.html), en base a la información plasmada para cada patrón se debe de detallar de forma más técnica cada patron. Para ello se le hacen modificaciones y se debe de complementar la información asociada.
+Para la documentación de patrones como insumos se tomara el resultado final de  [ver más...](/2024/10/05/definir_patrones.html), en base a la información plasmada para cada patrón se debe de detallar de forma más técnica cada uno. Para ello se le hacen modificaciones y se debe de complementar la información asociada.
 
 - **Proceso:** Nombre del procesos asosciado, no puede existir un patrón sin procesos.
 
@@ -55,7 +55,7 @@ Una vez se definen los patrones de forma técnica,  se debe establecer la relaci
 
 Una vez establecida las relaciones entre los patrones, lo unico que restaria es agrupar por proceso y establecer la relaciones entre los procesos.
 
->Un proceso se puede estar relacionado con más de un proceso y se puede ejecutar de forma paralela, para ello y en base al tiempo de ejecución del proceso se diagrama las relaciones, las relaciones nos indican el orden de ejecución y que insumos debe de pasarse de un proceso a otro.
+>Un proceso puede estar relacionado con más de un proceso y se puede ejecutar de forma paralela, para ello y en base al tiempo de ejecución del proceso se diagrama las relaciones, las relaciones nos indican el orden de ejecución y que insumos debe de pasarse de un proceso a otro.
 
 ![Definición final del patrón](..\..\..\assets\images\content\7_definir_entregables_tecnicos\drawio\paso_final_deficincion_entregables_tecnicos.drawio.png)
 

@@ -20,7 +20,7 @@ Para realizar la documentación de manera efectiva es fundamental seguir una est
 
 1. **Título de la propuesta:** Un título claro, conciso y que refleje el objetivo del proyecto.
 
-2. **Resumen ejecutivo o de negocio:** Un breve resumen que describa el propósito del proyecto, los beneficios esperados y los resultados claves, Este apartado debe de captar la atención del lector y proporcionar una visión general del contenido.
+2. **Resumen ejecutivo o de negocio:** Un breve resumen que describa el propósito del proyecto, los beneficios esperados y los resultados claves, Este apartado debe de captar la atención del lector y proporcionar una visión general de la necesidad.
 
 3. **Problemática:** Contexto sobre el problema que se busca resolver y la necesidad del software. Es importante establecer la relevancia del proyecto en el ámbito actual.
 
@@ -30,9 +30,9 @@ Para realizar la documentación de manera efectiva es fundamental seguir una est
 
 6. **Requisitos funcionales:** Listar las funcionalidades que el software debe tener. Esto puede incluir descripciones de características específicas y cómo se espera que interactúen los usuarios con el sistema.
 
-7. **Requisitos no funcionales:** Consideraciones sobre rendimiento, seguridad, usabilidad, entre otros. Estos requisitos son cruciales para la aceptación del software.
+7. **Requisitos no funcionales:** Consideraciones sobre rendimiento, seguridad, usabilidad, entre otros. Estos requisitos son cruciales y hacen parte de indicadores para la aceptación del software.
 
-8. **Definir patrones de comportamiento:** Listar los comportamientos esperados a la hora de generar un reembolso o reclamo de un seguro o póliza.
+8. **Definir comportamientos:** Listar los comportamientos esperados a la hora de generar un reembolso o reclamo de un seguro o póliza.
 
 9. **Plan de desarrollo:** Un cronograma que incluya las fases del proyecto, hitos y plazos. Este plan debe ser realista y flexible para adaptarse a cambios.
 

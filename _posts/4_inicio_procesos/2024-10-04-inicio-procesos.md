@@ -30,7 +30,7 @@ Para establecer los procesos dentro del ciclo de vida de un reembolso o reclamo,
 
 Una vez identificado estos procesos básicos, se pueden definir otra serie de procesos que va a responder a una necesidad latente o el cambio del comportamiento del ciclo de vida de un reemboso o reclmao, para la definición de estos procesos se recomienda tener en cuenta las siguientes pautas.
 
-> Tener presente que el ciclo de vida de un reembolso corresponde al comportamiento mínimo o serie de pasos que se debe cumplir para que un usuario finalice su proceso de reclamacion o de reembolso de una póliza o seguro, Con los **procesos básicos**, se cumplen con el ciclo de vida del reembolso.
+> Tener presente que el ciclo de vida de un reembolso corresponde al comportamiento mínimo o serie de pasos que se debe cumplir para que un usuario finalice su proceso de reclamacion o reembolso de una póliza o seguro, Con los **procesos básicos**, se cumplen con el ciclo de vida del reembolso.
 
 - Los procesos deben ser comportamientos que se repiten en el ciclo de vida de un reembolso sin importar la naturaleza de este y que respondan a una necesidad o una oportunidad de mejora.
 
