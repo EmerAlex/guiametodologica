@@ -45,7 +45,7 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   En este sitio encontraras un guia metodologica, donde se dettalalran los pasos para el desarrolo de un proyecto de software encargado de generar reembolsos a polizas o seguros.
 
-baseurl: "/guia_metodologica" # the subpath of your site, e.g. /blog
+baseurl: "/guiametodologica" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
