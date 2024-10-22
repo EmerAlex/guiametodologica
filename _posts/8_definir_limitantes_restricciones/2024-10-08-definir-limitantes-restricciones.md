@@ -3,7 +3,7 @@ layout: post
 title: Limitantes y restricciones
 subtitle: ¿Qué son, cómo se definene y su impacto?
 banner:
-  image: ..\\assets\images\content\8_definir_limitantes_restricciones\banner_definir_limitantes_restricciones.jpg
+  image: assets/images/content/8_definir_limitantes_restricciones/banner_definir_limitantes_restricciones.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

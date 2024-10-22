@@ -3,7 +3,7 @@ layout: post
 title: Documentación
 subtitle: Una breve introducción.
 banner:
-  image: ..\assets\images\content\1_inicio_documnmetacion\banner_inicio_documentacion.jpg
+  image: assets/images/content/1_inicio_documnmetacion/banner_inicio_documentacion.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

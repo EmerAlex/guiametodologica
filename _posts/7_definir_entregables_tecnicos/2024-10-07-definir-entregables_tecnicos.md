@@ -3,7 +3,7 @@ layout: post
 title: Documentación técnica
 subtitle: Consideración con respecto a la documentación técnica.
 banner:
-  image: ..\assets\images\content\7_definir_entregables_tecnicos\banner_definir_entregables_tecnicos.jpg
+  image: assets/images/content/7_definir_entregables_tecnicos/banner_definir_entregables_tecnicos.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

@@ -3,7 +3,7 @@ layout: post
 title: Documentar patrones
 subtitle: ¿Cómo documentar un patrón?
 banner:
-  image: ..\assets\images\content\6_definir_entregables_patrones\banner_definir_entregable_patrones.png
+  image: assets/images/content/6_definir_entregables_patrones/banner_definir_entregable_patrones.png
   opacity: 0.618
   background: "#000"
   height: "100vh"

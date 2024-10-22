@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo definir patrones?
 subtitle: Consideraciones.
 banner:
-  image: ..\assets\images\content\5_definir_patrones\banner_definir_patrones.jpg
+  image: assets/images/content/5_definir_patrones/banner_definir_patrones.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

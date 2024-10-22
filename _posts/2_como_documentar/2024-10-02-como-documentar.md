@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo documentar?
 subtitle: Pasos a tener en cuenta.
 banner:
-  image:  ..\assets\images\content\2_como_documentar\banner_como_documentar.jpg
+  image:  assets/images/content/2_como_documentar/banner_como_documentar.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"

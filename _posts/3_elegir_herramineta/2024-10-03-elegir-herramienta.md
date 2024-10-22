@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo elegir mi herramienta para documentar?
 subtitle: Consejos.
 banner:
-  image:  ..\assets\images\content\3_elegir_herramienta\banner_elegir_herramienta.jpg
+  image:  assets/images/content/3_elegir_herramienta/banner_elegir_herramienta.jpg
   background: "#000"
   height: "100vh"
   min_height: "38vh"

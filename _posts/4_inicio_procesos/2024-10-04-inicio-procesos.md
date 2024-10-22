@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo definir y documentar procesos?
 subtitle: Una breve introducción y consideraciones.
 banner:
-  image: ..\assets\images\content\4_inicio_procesos\banner_inicio_procesos.jpg
+  image: assets/images/content/4_inicio_procesos/banner_inicio_procesos.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
