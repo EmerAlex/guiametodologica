@@ -15,21 +15,15 @@ top: 3
 
 ## Consideraciones a tener en cuenta a la hora de seleccionar una herramineta.
 
-La elección de la herramienta adecuada para documentar un proyecto de software es un aspecto crítico que puede influir en la claridad, accesibilidad y mantenibilidad de la documentación. A continuación, se presentan los aspectos clave a considerar al seleccionar una herramienta de documentación, junto con referencias que respaldan la importancia de cada aspecto.
+La elección de la herramienta adecuada para documentar un proyecto de software es un aspecto crítico que puede influir en la claridad, accesibilidad y mantenibilidad de la documentación. A continuación, se presentan los aspectos clave a considerar al seleccionar una herramienta de documentación.
 
 - **Tipo de documentación:** Es fundamental determinar el tipo de documentación que se necesita crear, ya sea especificaciones técnicas, manuales de usuario, documentación de API, entre otros. Algunas herramientas son más adecuadas para ciertos tipos de documentos.
 
-- **Colaboración:** La colaboración en tiempo real es un factor importante, especialmente en equipos distribuidos. Herramientas como Google Docs o Confluence permiten que varios usuarios trabajen simultáneamente y realicen comentarios, lo que mejora la comunicación y la eficiencia.
+- **Colaboración:** La colaboración es un factor importante, especialmente en equipos distribuidos. Herramientas como Google Docs o Confluence permiten que varios usuarios trabajen simultáneamente y realicen comentarios, lo que mejora la comunicación y la eficiencia.
 
-- **Facilidad de uso:** La facilidad de uso de la herramienta es crucial para su adopción por parte del equipo. Una interfaz intuitiva puede reducir la curva de aprendizaje y facilitar la creación de documentación.
-
-- **Formato de salida:** Es importante verificar los formatos de salida que ofrece la herramienta. Algunas permiten exportar documentos en formatos como PDF, HTML o Markdown, lo que puede ser útil para compartir o publicar la documentación.
-
-- **Integración con otras herramientas:** La capacidad de integración con otras herramientas utilizadas en el proyecto, como sistemas de control de versiones (Git) o plataformas de gestión de proyectos (Jira, Trello), es un aspecto a considerar para facilitar el flujo de trabajo (Pressman, 2014).
+- **Facilidad de uso:** La facilidad de uso de la herramienta es crucial para su adopción por parte del equipo. Una interfaz intuitiva puede reducir la curva de aprendizaje y facilitar la creación de documentación de forma más acertiva.
 
 - **Control de versiones:** Asegurarse de que la herramienta permite el control de versiones es esencial para mantener un historial de cambios en la documentación y facilitar la colaboración.
-
-- **Accesibilidad:** La accesibilidad desde diferentes dispositivos y plataformas es importante, especialmente si el equipo trabaja de forma remota o en diferentes ubicaciones .
 
 - **Soporte y Comunidad:** Investigar si la herramienta cuenta con un buen soporte técnico y una comunidad activa puede ser útil para resolver problemas y obtener consejos sobre el uso de la herramienta.
 

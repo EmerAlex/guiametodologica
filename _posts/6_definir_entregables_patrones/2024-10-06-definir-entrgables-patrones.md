@@ -16,12 +16,12 @@ sidebar: []
 
 ## Documentación de patrones.
 
-Una vez identificado los patrones [ver más](/2024/10/05/inicio_patrones.html), ya con el patrón identificado se procese a documnetar, se recomienda usar herramientas graficas. El primer paso es definir el patrón, pero sin rellenar la columna de ***Aprobado/Rechazado*** debido a que se debe someter a una votación.
+Una vez identificado los patrones [ver más](/2024/10/05/inicio_patrones.html), se procese a documnetar, se recomienda usar herramientas graficas. El primer paso es definir el patrón, pero sin rellenar la columna de ***Aprobado/Rechazado*** debido a que se debe someter a una votación.
 
 > Para la votación, se recomienda que participen los lideres técnicos y personas del negocio.
 
 ![Definición inicial del patrón](..\..\..\assets\images\content\6_definir_entregables_patrones\drawio\primer_paso_deficincion_entregables_patonres.drawio.png)
-> un proceso debe tener más de dos patrones un patrón debe de tener una relación con otro, ya que son comportamientos para lograr el cumplimiento del proceso
+> un proceso debe tener más de dos patrones un patrón debe de tener una relación con otro, ya que son comportamientos para lograr el cumplimiento del proceso.
 
 Una vez se definen los patrones,  se debe establecer la relación entre ellos, la unión de los patrones se define cómo: la *dependencia o requerimientos necesarios para que el siguiente patrón pueda funcionar*.
 
