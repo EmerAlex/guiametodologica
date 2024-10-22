@@ -2,22 +2,22 @@
 layout: post
 title: Documentación
 subtitle: Una breve introducción.
+resume: La documentación en el desarrollo de software es un proceso indispensable que asegura que todos los aspectos del proyecto están claramente comunicados y registrados, para que los participantes puedan consultar y transmitir la información generada durante la ejecución. Para lograr este fin vamos a revisar los siguientes aspectos a considerar.
 banner:
   image: assets/images/content/1_inicio_documnmetacion/banner_inicio_documentacion.jpg
   opacity: 0.618
   background: "#000"
-  height: "100vh"
+  height: "50vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold;"
-  subheading_style: "color: gold"
+  subheading_style: "color: white"
+urlbanner: https://ekologic.fr/le-plan-de-comptage-une-demarche-indispensable-pour-optimiser-la-performance-energetique/
 top: 1
 sidebar: []
 ---
 
-## Importancia
 La documentación en el desarrollo de software es un proceso indispensable que asegura que todos los aspectos del proyecto están claramente comunicados y registrados, para que los participantes puedan consultar y transmitir la información generada durante la ejecución. Para lograr este fin vamos a revisar los siguientes aspectos a considerar.
 
-## Aspectos importantes a considerar
 
 - **Integración en el proceso de desarrollo:** Hacer de la documentación una parte integral del ciclo de vida del desarrollo de software es fundamental para su efectividad.
 

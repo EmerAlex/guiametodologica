@@ -2,18 +2,19 @@
 layout: post
 title: Limitantes y restricciones
 subtitle: ¿Qué son, cómo se definene y su impacto?
+resume: Una vez identificado los procesos con sus respectivos patrones, se empieza con la definición técnica, para ello se divide en dos sesiones, la documentación técnica base y la documentación técnica de los patrones.
 banner:
   image: assets/images/content/8_definir_limitantes_restricciones/banner_definir_limitantes_restricciones.jpg
   opacity: 0.618
   background: "#000"
-  height: "100vh"
+  height: "50vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold;"
-  subheading_style: "color: gold"
+  subheading_style: "color: white"
+urlbanner: https://www.freepik.com/premium-vector/vector-illustration-conceptual-illustration-frequently-asked-questions-exclamation-marks_18207378.htm?epik=dj0yJnU9dkJKdHNyVGxGS1Ftb3loaGFoOWw2ODFlYWVMQ3N2dVEmcD0wJm49QWV5a2pjTW00Sm1GWWEybmVlVnpuQSZ0PUFBQUFBR2NYS3pN
 top: 8
 sidebar: []
 ---
-## Limitantes y restricciones
 
 Definir limitantes y restricciones en un proyecto de software es un proceso crítico que impacta en la planificación, diseño y ejecución del proyecto. A continuación, se presentan las definiciones y enfoques para identificar y documentar estas limitantes y restricciones.
 

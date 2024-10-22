@@ -2,19 +2,19 @@
 layout: post
 title: ¿Cómo documentar?
 subtitle: Pasos a tener en cuenta.
+resume: Para realizar la documentación de manera efectiva es fundamental seguir una estructura organizada que aborde los aspectos importantes de un proyecto, A continuación. se va a presentar una serie de elementos para generar la documentación.
 banner:
   image:  assets/images/content/2_como_documentar/banner_como_documentar.jpg
   opacity: 0.618
   background: "#000"
-  height: "100vh"
+  height: "50vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold;"
-  subheading_style: "color: gold"
+  subheading_style: "color: white"
+urlbanner: https://elearningindustry.com/sam-successive-approximation-model-for-rapid-instructional-design
 sidebar: []
 top: 2
 ---
-
-## Pasos para relaizar nuestra documentación.
 
 Para realizar la documentación de manera efectiva es fundamental seguir una estructura organizada que aborde los aspectos importantes de un proyecto, A continuación. se va a presentar una serie de elementos para generar la documentación.
 

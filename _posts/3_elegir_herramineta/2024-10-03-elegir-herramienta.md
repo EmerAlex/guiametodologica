@@ -1,19 +1,19 @@
 ---
 layout: post
 title: ¿Cómo elegir mi herramienta para documentar?
+resume: La elección de la herramienta adecuada para documentar un proyecto de software es un aspecto crítico que puede influir en la claridad, accesibilidad y mantenibilidad de la documentación. A continuación, se presentan los aspectos clave a considerar al seleccionar una herramienta de documentación. 
 subtitle: Consejos.
 banner:
   image:  assets/images/content/3_elegir_herramienta/banner_elegir_herramienta.jpg
   background: "#000"
-  height: "100vh"
+  height: "50vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold;"
-  subheading_style: "color: gold"
+  subheading_style: "color: white"
+urlbanner: https://www.thoughtfulleader.com/setting-direction/
 sidebar: []
 top: 3
 ---
-
-## Consideraciones a tener en cuenta a la hora de seleccionar una herramineta.
 
 La elección de la herramienta adecuada para documentar un proyecto de software es un aspecto crítico que puede influir en la claridad, accesibilidad y mantenibilidad de la documentación. A continuación, se presentan los aspectos clave a considerar al seleccionar una herramienta de documentación.
 

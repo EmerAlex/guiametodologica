@@ -2,19 +2,19 @@
 layout: post
 title: ¿Cómo definir y documentar procesos?
 subtitle: Una breve introducción y consideraciones.
+resume: Para establecer los procesos dentro del ciclo de vida de un reembolso o reclamo, primero se debe de poner en consideración una definición básica y cómo los usuarios pueden acceder a esos servicios, estas dos consideraciones dependen en gran medida de las legislaciones de cada país, por eso se recomienda que tenga estos cuatro procesos que no dependen de dichas legislaciones y se consideran propias de la generación del reembolso. 
 banner:
   image: assets/images/content/4_inicio_procesos/banner_inicio_procesos.jpg
   opacity: 0.618
   background: "#000"
-  height: "100vh"
+  height: "50vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold;"
-  subheading_style: "color: gold"
+  subheading_style: "color: white"
+urlbanner: https://www.searchenginejournal.com/content-marketing-skills/347120/
 top: 4
 sidebar: []
 ---
-## Establecer proceso.
-
 Para establecer los procesos dentro del ciclo de vida de un reembolso o reclamo, primero se debe de poner en consideración una definición básica y cómo los usuarios pueden acceder a esos servicios, estas dos consideraciones dependen en gran medida de las legislaciones de cada país, por eso se recomienda que tenga estos cuatro procesos que no dependen de dichas legislaciones y se consideran propias de la generación del reembolso. 
 
 

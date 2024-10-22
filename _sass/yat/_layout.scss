@@ -314,7 +314,13 @@ html {
       background-position: center center;
       overflow: hidden;
       transition: 0.2s all ease-in-out;
-    }
+    };
+
+    .referencias {
+      font-size: 6px;
+      text-align: center;
+      color: #000;
+    };
   }
 
   .post-list {
@@ -354,6 +360,7 @@ html {
     word-break: break-word;
     overflow-wrap: break-word;
     flex: 1;
+    text-align: justify;
   }
 
   .post-tags .post-tag {
@@ -657,6 +664,7 @@ html {
       @include relative-font-size(1.525);
       color: #ffffffcc;
       padding-right: 280px;
+      font-weight: bold;
 
       @include media-query($on-palm) {
         padding-right: 0;

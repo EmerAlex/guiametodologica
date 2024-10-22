@@ -2,21 +2,23 @@
 layout: post
 title: ¿Cómo definir patrones?
 subtitle: Consideraciones.
+resume: Una vez identificado los  procesos, posteriormente se puede definir otra serie de comportamientos denominados patrones que dependen del proceso asociado a la necesidad, que corresponde a lo mínimo que se necesita para que el proceso finalice, para la definición de estos patrones se recomienda tener en cuenta las siguientes pautas.
 banner:
   image: assets/images/content/5_definir_patrones/banner_definir_patrones.jpg
   opacity: 0.618
   background: "#000"
-  height: "100vh"
+  height: "50vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold;"
-  subheading_style: "color: gold"
+  subheading_style: "color: white"
+urlbanner: https://community.thriveglobal.com/simple-ways-to-make-personal-connections-with-others/
 top: 5
 sidebar: []
 ---
 
 ## Definición de patrones de comportamiento
 
-Una vez identificado los  procesos [ver más...](/2024/10/01/inicio_patrones.html), posteriormente se puede definir otra serie de comportamientos denominados patrones que dependen del proceso asociado a la necesidad, que corresponde a lo mínimo que se necesita para que el proceso finalice, para la definición de estos patrones se recomienda tener en cuenta las siguientes pautas.
+Una vez identificado los  procesos [ver más...]({{site.baseurl}}/inicio-procesos), posteriormente se puede definir otra serie de comportamientos denominados patrones que dependen del proceso asociado a la necesidad, que corresponde a lo mínimo que se necesita para que el proceso finalice, para la definición de estos patrones se recomienda tener en cuenta las siguientes pautas.
 
 - Un patrón en un comportamiento recurrente y necesario para el proceso, ejemplo: para el proceso **Presentación de la Solicitud** se pueden definir el siguiente patrón, el usuario debe de llenar un formulario con la información básica, ese formulario y todo el esfuerzo que conlleva esa tarea se considera un patrón y este comportamiento se repite para todas las solicitudes, a este tipo de patrón se le considera patrón base. 
 
