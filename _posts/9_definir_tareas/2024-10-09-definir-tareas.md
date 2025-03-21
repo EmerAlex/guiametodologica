@@ -39,7 +39,7 @@ Para documentar una tarea recomienda considerar los siguientes aspectos.
 
 - **Requerimiento:** Detallar la necesidad de la tarea identificando los proyectos a intervenir y acciones necesarias para finalizar, para este fin se define la siguiente estructura con un ejemplo: ***Se requiere*** crear un formulario ***para*** que el usuario final pueda registrar su información básica.
 
-- **Proyectos a intervenitr:** Este apartado es especifico para las tareas técnicas, para ello ya se debe tener definida la arquitectura definida [***"Documentación base, Diseño del Sistema"***]({{site.baseurl}}/definir-entregables-tecnicos) dónde ya se encuentran identificado los proyectos técnicos, y plasmar cual de los que existen debe de intervenirse.
+- **Proyectos a intervenir:** Este apartado es especifico para las tareas técnicas, para ello ya se debe tener definida la arquitectura definida [***"Documentación base, Diseño del Sistema"***]({{site.baseurl}}/definir-entregables-tecnicos) dónde ya se encuentran identificado los proyectos técnicos, y plasmar cual de los que existen debe de intervenirse.
 
 > **Un proyecto técnico** se refiere al conjunto de herramientas necesarias para que una necesidad sea convertida en un proyecto de software, ejemplo, frontend para mostrarle al usuario el formulario donde debe de ingresar la información básica se puede considerar un proyecto técnico, y el backend se podría considerar otro proyecto.
 
