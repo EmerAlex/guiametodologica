@@ -31,7 +31,7 @@ La documentación en el desarrollo de software es un proceso indispensable que a
 
 - **Formato:** Utilizar un formato claro y profesional, como un documento en Word, Google Docs o PDF o cualquier otro formato que se adapte a las necesidades, haciendo uso de gráficos, diagramas y otros elementos visuales puede mejorar significativamente la comprensión y retención de la información.
 
-- **Actualización regular:** Mantener la documentación al día con los cambios generados a lo largo del ciclo de vida del proyecyo..
+- **Actualización regular:** Mantener la documentación al día con los cambios generados a lo largo del ciclo de vida del proyecto.
 
 - **Uso de ejemplos:** Incluir ejemplos prácticos ayuda a ilustrar conceptos complejos y facilita la comprensión.
 

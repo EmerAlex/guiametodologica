@@ -18,7 +18,7 @@ sidebar: []
 
 La definición de tareas en proyectos de software es un proceso fundamental que influye en la planificación, ejecución y éxito del proyecto. A continuación, se presentan aspectos clave que deben tener presente al momento de su definición.
 
-- **Claridad y Especificidad:** La claridad en la definición de tareas es esencial para evitar ambigüedades que puedan llevar a malentendidos. Según Boehm (1981), una especificación precisa de los requisitos y tareas es crucial para el éxito del desarrollo.
+- **Claridad y Especificidad:** La claridad en la definición de tareas es esencial para evitar ambigüedades que puedan llevar a malentendidos. Una especificación precisa de los requisitos y tareas es crucial para el éxito del desarrollo.
 
 - **Descomposición de Tareas:** La descomposición de tareas grandes en subtareas más pequeñas y manejables facilita la estimación del tiempo y el esfuerzo requerido.
 
@@ -28,7 +28,7 @@ La definición de tareas en proyectos de software es un proceso fundamental que 
 
 - **Asignación de Responsabilidades:** La asignación de tareas se debe de hacer a una persona que tenga la capacidad de atenderla y en caso de uqe no tenga el conocimiento necesario, se debe generar una dependencia ya que se requiere una curva de aprendizaje.
 
-- **Revisión y Ajuste:** Establecer un proceso para revisar y ajustar las tareas a medida que avanza el proyecto es fundamental, ya que en muchos casos es inevitable que algún contratiempo surja, en case de ser un ajuste que demande una gran cantidad de ezfuerzo, lo mejor es replantear el ajuste como una tarea.
+- **Revisión y Ajuste:** Establecer un proceso para revisar y ajustar las tareas a medida que avanza el proyecto es fundamental, ya que en muchos casos es inevitable que algún contratiempo surja, en case de ser un ajuste que demande una gran cantidad de esfuerzo, lo mejor es replantear el ajuste como una tarea.
 
 - **Comunicación:** Fomentar una comunicación abierta entre los miembros del equipo es vital para resolver dudas y asegurar que todos estén alineados con los objetivos del proyecto.
 
@@ -39,21 +39,21 @@ Para documentar una tarea recomienda considerar los siguientes aspectos.
 
 - **Requerimiento:** Detallar la necesidad de la tarea identificando los proyectos a intervenir y acciones necesarias para finalizar, para este fin se define la siguiente estructura con un ejemplo: ***Se requiere*** crear un formulario ***para*** que el usuario final pueda registrar su información básica.
 
-- **Proyectos a intervenitr:** Este apartado es especifico para las tareas técnicas, para ello ya se debe tener definida la arquitectura definida [***"Documentación base, Diseño del Sistema"***]({{site.baseurl}}/definir-entregables-tecnicos) dónde ya se encuentran identificado los pyoyectos técnicos, y plasmar cual de los que existen debe de intervenirse.
+- **Proyectos a intervenitr:** Este apartado es especifico para las tareas técnicas, para ello ya se debe tener definida la arquitectura definida [***"Documentación base, Diseño del Sistema"***]({{site.baseurl}}/definir-entregables-tecnicos) dónde ya se encuentran identificado los proyectos técnicos, y plasmar cual de los que existen debe de intervenirse.
 
-> **Un proyecto técnico** se refiere al conjunto de herramientas necesarias para que una necesidad sea convertida en un proyecto de software, ejemplo, frontend para mostrarle al usuario el formulario donde debe de ingresar la información básica se puede considerar un proyecto técnico, y el backend se podria considerar otro proyecto.
+> **Un proyecto técnico** se refiere al conjunto de herramientas necesarias para que una necesidad sea convertida en un proyecto de software, ejemplo, frontend para mostrarle al usuario el formulario donde debe de ingresar la información básica se puede considerar un proyecto técnico, y el backend se podría considerar otro proyecto.
 
-- **Criterios de Aceptación:** Son todas aquellas codiciones que se deben cúmplir para que la tarea sea considerada cómo finalizada, generalmente va ligado a pruebas o resultados experados.
+- **Criterios de Aceptación:** Son todas aquellas condiciones que se deben cumplir para que la tarea sea considerada cómo finalizada, generalmente va ligado a pruebas o resultados esperados.
 
 - **Asignada a:** Persona encargada de la ejecución de la tarea.
 
-- **Prioridad:** Definir el orden de ejecución, esto tambien se puede relacionar con las dependencias.
+- **Prioridad:** Definir el orden de ejecución, esto también se puede relacionar con las dependencias.
 
-- **Recursos:** Datos o información que se debe de presente para que la tarea sea ejecutada de forma exitosa, ejemplo, para consumir un servicio backend se debe de realizar una petición con cierta informació, esa información seria un recurso para la tarea.
+- **Recursos:** Datos o información que se debe de presente para que la tarea sea ejecutada de forma exitosa, ejemplo, para consumir un servicio backend se debe de realizar una petición con cierta información, esa información seria un recurso para la tarea.
 
 - **Esfuerzo:** Cantidad de tiempo que se debe de invertir para finalizar la ejecución de la tarea.
 
-- **Dependencias:** Son todas la tareas que se deben de términar para dar inicio a la nueva tarea, esto afecta directamente al cronograma de ejecución, ten presente que entre una mejor definición de este apartado se puede realizar uan mejor estimación.
+- **Dependencias:** Son todas la tareas que se deben de terminar para dar inicio a la nueva tarea, esto afecta directamente al cronograma de ejecución, ten presente que entre una mejor definición de este apartado se puede realizar uan mejor estimación.
 
 - **Patron**: Patron del cual se desprende la tarea.
 

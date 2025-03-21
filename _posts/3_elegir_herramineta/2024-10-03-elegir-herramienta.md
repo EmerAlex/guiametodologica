@@ -21,7 +21,7 @@ La elección de la herramienta adecuada para documentar un proyecto de software 
 
 - **Colaboración:** La colaboración es un factor importante, especialmente en equipos distribuidos. Herramientas como Google Docs o Confluence permiten que varios usuarios trabajen simultáneamente y realicen comentarios, lo que mejora la comunicación y la eficiencia.
 
-- **Facilidad de uso:** La facilidad de uso de la herramienta es crucial para su adopción por parte del equipo. Una interfaz intuitiva puede reducir la curva de aprendizaje y facilitar la creación de documentación de forma más acertiva.
+- **Facilidad de uso:** La facilidad de uso de la herramienta es crucial para su adopción por parte del equipo. Una interfaz intuitiva puede reducir la curva de aprendizaje y facilitar la creación de documentación de forma más asertiva.
 
 - **Control de versiones:** Asegurarse de que la herramienta permite el control de versiones es esencial para mantener un historial de cambios en la documentación y facilitar la colaboración.
 

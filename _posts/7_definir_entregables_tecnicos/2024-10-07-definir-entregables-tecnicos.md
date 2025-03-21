@@ -35,11 +35,11 @@ Guía de Instalación: Proporciona instrucciones sobre cómo instalar y configur
 
 Para la documentación de patrones como insumos se tomara el resultado final de  [ver más...]({{site.baseurl}}/definir-patrones), en base a la información plasmada para cada patrón se debe de detallar de forma más técnica cada uno. Para ello se le hacen modificaciones y se debe de complementar la información asociada.
 
-- **Proceso:** Nombre del procesos asosciado, no puede existir un patrón sin procesos.
+- **Proceso:** Nombre del procesos asociado, no puede existir un patrón sin procesos.
 
 - **Nombre:** Asigna un nombre claro y descriptivo que refleje la función del patrón. El nombre debe ser intuitivo para facilitar su identificación y uso.
 
-- **Datos entrada:** Define la información necesaria para que el patron finalice de forma correcta, este corresponde a la conexión que va haber entre los patrone.
+- **Datos entrada:** Define la información necesaria para que el patron finalice de forma correcta, este corresponde a la conexión que va haber entre los patrones.
 
 - **Datos salida:** Define la información generada en la ejecución del patron.
 
@@ -51,9 +51,9 @@ Una vez se definen los patrones de forma técnica,  se debe establecer la relaci
 
 
 ![Definición parcial 2 del patrón]({{site.baseurl}}/assets/images/content/7_definir_entregables_tecnicos/drawio/segundo_paso_deficincion_entregables_tecnicos.drawio.png)
-> Para de unión de los patrones se recomienda utilizar o decribir la información o datos requeridos en el seguinete patrón.
+> Para de unión de los patrones se recomienda utilizar o describir la información o datos requeridos en el siguiente patrón.
 
-Una vez establecida las relaciones entre los patrones, lo unico que restaria es agrupar por proceso y establecer la relaciones entre los procesos.
+Una vez establecida las relaciones entre los patrones, lo único que restaría es agrupar por proceso y establecer la relaciones entre los procesos.
 
 >Un proceso puede estar relacionado con más de un proceso y se puede ejecutar de forma paralela, para ello y en base al tiempo de ejecución del proceso se diagrama las relaciones, las relaciones nos indican el orden de ejecución y que insumos debe de pasarse de un proceso a otro.
 

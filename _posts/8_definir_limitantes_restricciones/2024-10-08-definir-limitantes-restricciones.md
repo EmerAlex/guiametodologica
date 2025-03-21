@@ -30,7 +30,7 @@ Definir limitantes y restricciones en un proyecto de software es un proceso crí
 Definición de Estrategias de Mitigación: Una vez que se han analizado las limitantes y restricciones, se deben definir estrategias específicas para mitigarlas. Estas estrategias pueden incluir:
 
 - **Reducción:** Implementar medidas para disminuir la probabilidad o el impacto de la limitante o restricción.
-- **Transferencia:** Delegar la responsabilidad de la limitante a un tercero, como un proveedor o socio siempre y cuando se factible o la restriccion es originada por el tercero.
+- **Transferencia:** Delegar la responsabilidad de la limitante a un tercero, como un proveedor o socio siempre y cuando se factible o la restricción es originada por el tercero.
 - **Aceptación:** Reconocer la limitante o restricción y planificar cómo manejar sus efectos si se materializa.
 - **Desarrollo de un Cronograma:** Es esencial establecer un cronograma para la implementación de las estrategias de mitigación. Esto incluye definir plazos específicos y asignar responsabilidades a los miembros del equipo. Un cronograma bien estructurado ayuda a asegurar que las acciones se realicen de manera oportuna.
 - **Asignación de Recursos:** Identificar y asignar los recursos necesarios para implementar las estrategias de mitigación es crucial. Esto puede incluir recursos humanos, financieros y tecnológicos. La planificación adecuada de recursos asegura que el equipo tenga lo necesario para abordar las limitantes y restricciones.

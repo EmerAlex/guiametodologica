@@ -29,4 +29,4 @@ La estimación de tiempos en proyectos de software es un proceso crítico que pe
 
 - **Técnica Delphi:**- Consiste en consultar a un grupo de expertos para obtener sus estimaciones sobre el tiempo requerido para completar un proyecto. Las estimaciones se discuten y refinan en varias rondas hasta llegar a un consenso.
 
-La selección de la metodología depende de la naturaleza del equipo, apesar de que las opciones vistas anteriormente dan soluciones a la necesidad de crear un cronograma para este caso se recomienda utilizar la **Planning Poker** debido a que la participación a la hora de estimar se realiza o se tiene presente los actores necesarios para lograr dicho fin.
+La selección de la metodología depende de la naturaleza del equipo, a pesar de que las opciones vistas anteriormente dan soluciones a la necesidad de crear un cronograma para este caso se recomienda utilizar la **Planning Poker** debido a que la participación a la hora de estimar se realiza o se tiene presente los actores necesarios para lograr dicho fin.

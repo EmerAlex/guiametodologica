@@ -28,9 +28,9 @@ Para establecer los procesos dentro del ciclo de vida de un reembolso o reclamo,
 
 > Sean considerados como procesos básicos los procesos descritos anteriormente.
 
-Una vez identificado estos procesos básicos, se pueden definir otra serie de procesos que va a responder a una necesidad latente o el cambio del comportamiento del ciclo de vida de un reemboso o reclmao, para la definición de estos procesos se recomienda tener en cuenta las siguientes pautas.
+Una vez identificado estos procesos básicos, se pueden definir otra serie de procesos que va a responder a una necesidad latente o el cambio del comportamiento del ciclo de vida de un reembolso o reclamo, para la definición de estos procesos se recomienda tener en cuenta las siguientes pautas.
 
-> Tener presente que el ciclo de vida de un reembolso corresponde al comportamiento mínimo o serie de pasos que se debe cumplir para que un usuario finalice su proceso de reclamacion o reembolso de una póliza o seguro, Con los **procesos básicos**, se cumplen con el ciclo de vida del reembolso.
+> Tener presente que el ciclo de vida de un reembolso corresponde al comportamiento mínimo o serie de pasos que se debe cumplir para que un usuario finalice su proceso de reclamación o reembolso de una póliza o seguro, Con los **procesos básicos**, se cumplen con el ciclo de vida del reembolso.
 
 - Los procesos deben ser comportamientos que se repiten en el ciclo de vida de un reembolso sin importar la naturaleza de este y que respondan a una necesidad o una oportunidad de mejora.
 
@@ -38,7 +38,7 @@ Una vez identificado estos procesos básicos, se pueden definir otra serie de pr
 
 - Cada proceso se debe de documentar, y este debe ser sometido a votación, por parte del equipo.
 
-- En caso de ser desestimado, se debe de reemplantear el proceso o definir si no se requiere y documentar el ¿Por qué se desistio?.
+- En caso de ser desestimado, se debe de replantear el proceso o definir si no se requiere y documentar el ¿Por qué se desistió?.
 
 Estos procesos definidos se convierten posteriormente en el insumo con el que se construyen los patrones, por ende se recomienda la siguiente estructura para documentarlos.
 
@@ -48,6 +48,6 @@ Estos procesos definidos se convierten posteriormente en el insumo con el que se
 
 - **Contexto:** Define el contexto en el que se aplica el proceso. Esto incluye las condiciones y situaciones específicas en las que es útil.
 
-- **Orden de ejecución:** Define el oredn de ejecución del proceso en todo el ciclo del vida del reembolso.
+- **Orden de ejecución:** Define el orden de ejecución del proceso en todo el ciclo del vida del reembolso.
 
 
